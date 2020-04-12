@@ -48,7 +48,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 > **Dispel** - The defeat of a Soul in Combat. Dispelled Souls are sent to Limbo. 
 
 ## Zones
-image
+
 ![Battle Field](https://raw.githubusercontent.com/thebanon/dreamers/master/app/zones.jpg)
 
 > **Limbo** - The zone on the game field Souls are sent to after they lose in Combat 
@@ -62,7 +62,8 @@ Souls that are Played face-down are not considered active. Active cards are face
 
 ### TriCode
 
-There are special laws when calculating damages in Combat. Red overpowers Green overpowers Blue overpowers Red. When calculating damages these laws govern the <mark>Power</mark> of Souls. The Power of the Soul overpowered by the TriCode is halved. Thus, a Blue Soul wins the Round of a Power 8 Red Soul VS a Power 6 Blue Soul.
 ![Battle Field](https://raw.githubusercontent.com/thebanon/dreamers/master/app/r8vsb6.png)
+
+There are special laws when calculating damages in Combat. Red overpowers Green overpowers Blue overpowers Red. When calculating damages these laws govern the <mark>Power</mark> of Souls. The Power of the Soul overpowered by the TriCode is halved. Thus, a Blue Soul wins the Round of a Power 8 Red Soul VS a Power 6 Blue Soul.
 
 > **Power** - The number on a Soul. 
