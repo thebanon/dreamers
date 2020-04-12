@@ -1,8 +1,5 @@
 # E L E M E N T S
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
-
 ## Setup
 
  1. Shuffle all <mark>Souls</mark>. 
